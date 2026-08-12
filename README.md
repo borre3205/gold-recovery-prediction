@@ -1,5 +1,5 @@
 # gold-recovery-prediction
-Regression model predicting gold recovery rates in an industrial flotation process, using a custom weighted sMAPE metric and validation against a dummy baseline.
+Regression model predicting gold recovery rates in an industrial flotation process, using a custom weighted sMAPE metric and validation against a dummy baseline. Data coming from TripleTen Data Science bootcamp (not shared in the repository)
 ## English
 
 ### Problem
